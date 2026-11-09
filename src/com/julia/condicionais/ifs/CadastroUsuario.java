@@ -12,7 +12,7 @@ package com.julia.condicionais.ifs;
 
 import java.util.Scanner;
 
-public class CadastroUsuario {
+public class  CadastroUsuario {
 
     public static void main(String[] args) {
         Scanner dados = new Scanner(System.in);
