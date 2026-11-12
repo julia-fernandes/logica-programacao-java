@@ -1,4 +1,4 @@
-package com.julia.arrays.vetores;
+package com.julia.arrays.unidimensionais;
 
 import java.util.Arrays;
 import java.util.Scanner;
